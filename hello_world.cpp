@@ -12,7 +12,4 @@ int main(int argc, char * argv[]){
         cout << "hello world " << argv[1]<< endl;
         return 0;
     }
-    
-
-
 }
